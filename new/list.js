@@ -12,4 +12,4 @@
 var mergeNodes = function(head) {
   let  dummy=new ListNode();
     let curr=dummy.next;
-};          
+};       
