@@ -13,7 +13,11 @@ const roman = [
     { value: 4, symbol: 'IV' },
     { value: 1, symbol: 'I' },
 ];
-
+/**
+ * A program where you inter romans and return corresponding  number
+ * @param {string} s 
+ * @return {number}
+ */
 var romanToInt = function (s) {
     let number = 0;
     for (let i = 0; i < s.length; i++) {

@@ -1,4 +1,5 @@
 /**
+ * This program return a number which is single
  * @param {number[]} nums
  * @return {number}
  */

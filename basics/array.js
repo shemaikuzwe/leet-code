@@ -1,4 +1,5 @@
 /**
+ * This program use sliding window method to find the longest subarray
  * @param {number[]} nums
  * @return {number}
  */

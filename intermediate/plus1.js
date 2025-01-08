@@ -1,3 +1,9 @@
+/**
+ * This program adds one to a digit 
+ * @param {number[]} digits
+ * @return {number[]}
+ */
+
 function plusOne(digits) {
     for (let i = digits.length - 1; i >= 0; i--) {
         if (digits[i] < 9) {

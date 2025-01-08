@@ -1,4 +1,5 @@
 /**
+ * This program returns the square root of a number using binary search algorithm
  * @param {number} x
  * @return {number}
  */

@@ -1,4 +1,5 @@
 /**
+ * A program that returns the number of continuous subarrays
  * @param {number[]} nums
  * @param {number}  k
  * @return {number} 

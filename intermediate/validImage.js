@@ -1,4 +1,10 @@
 
+/**
+ * This program checks if an image is valid
+ * @param {string} url 
+ * @return {boolean}
+ */
+
 async function IsValid(url) {
     try {
         const contorller = new AbortController();

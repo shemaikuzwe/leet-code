@@ -1,5 +1,5 @@
 /**
- * 
+ * This program check if given number is palindrome
  * @param {number} s
  * @return {boolean} 
  */

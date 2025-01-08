@@ -1,4 +1,5 @@
 /**
+ * This program returns the final state of the array by multplying the smallest number by the multiplier given k times
  * @param {number[]} nums
  * @param {number} k
  * @param {number} multiplier
@@ -24,4 +25,4 @@ var getFinalState = function (nums, k, multiplier) {
     return nums
 };
 
-console.log(getFinalState([1,2], 3, 4));
+console.log(getFinalState([1, 2], 3, 4));

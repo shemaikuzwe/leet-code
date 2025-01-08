@@ -1,4 +1,5 @@
 /**
+ * This program return the score of string using their charCode
  * @param {string} s
  * @return {number}
  */

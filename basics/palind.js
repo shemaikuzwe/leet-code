@@ -1,4 +1,6 @@
 /**
+ * a program to find a number if it is palindrome or not
+ * @description a palindorme number  is a number that is readed the same from begging and from end
  * @param {string} s
  * @return {boolean}
  */

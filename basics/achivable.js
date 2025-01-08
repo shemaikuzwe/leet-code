@@ -1,4 +1,5 @@
 /**
+ * A program to find maximum achivable number
  * @param {number} num
  * @param {number} t
  * @return {number}

@@ -1,4 +1,6 @@
 /**
+ * Fizz buzz is a simple algo  that prints fizz if number is divisible by 3 
+ * And Buzz if it is fizzle by 5 if it's visible by both 3 and 5 it prints FizzBuzz other wise it Prints that number
  * @return {number}
  */
 var fizz = function () {
@@ -6,13 +8,15 @@ var fizz = function () {
         if (i % 3 == 0 && i % 5 == 0) {
             console.log("FizzBuzz")
         }
-        if (i % 3 == 0) {
+       else  if (i % 3 == 0) {
             console.log("Fizz")
         }
-        if (i % 5 == 0) {
+        else if (i % 5 == 0) {
             console.log("Buzz")
         }
+        else{
         console.log(i)
+        }
     }
 
 };

@@ -1,4 +1,5 @@
 /**
+ * This program returns the  longest subsring that has sum less than k
  * @param {number[]} nums
  * @param {number} k
  */

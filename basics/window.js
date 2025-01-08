@@ -1,4 +1,5 @@
 /**
+ * This programs uses sliding window method to find the longest subarray
  * @param {string[]} s
  */
 const lengthOfSliding = (s) => {

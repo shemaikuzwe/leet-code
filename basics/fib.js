@@ -1,4 +1,6 @@
 /**
+ * A program to find fibonacci number 
+ * A fibonacci numbers are series of numbers where each number is the sum of the two preceding numbers
  * @param {number} n
  * @return {number}
  */

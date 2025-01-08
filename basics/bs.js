@@ -1,5 +1,6 @@
 /**
- * a program to perform binary search on a sorted array of numbers.
+ * @description a program to perform binary search on a sorted array of numbers.
+ * Binary search algorithm is the basic algorithm every programmer shuld know.
  * @param {number[]} arr
  * @param {number} x
  * @return {number}

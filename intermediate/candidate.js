@@ -1,5 +1,6 @@
 
 /**
+ * A program  that finds all 
  * @param {[]} candidates
  * @param {number} target
  */

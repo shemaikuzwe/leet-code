@@ -1,4 +1,5 @@
 /**
+ * This program uses fibonacci method to find the ways all possible you can use to climb stairs
  * @param {number} n
  * @return {number}
  */
